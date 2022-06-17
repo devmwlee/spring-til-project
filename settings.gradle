@@ -1,0 +1,4 @@
+rootProject.name = 'spring-til-project'
+include 'java8-sort-list-way'
+include 'class-forname'
+include 'thread-in-java'
